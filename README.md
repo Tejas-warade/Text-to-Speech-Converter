@@ -10,4 +10,5 @@ The Text-to-Speech Converter is a simple yet powerful web application that allow
 4. The browser will then process the text and read it aloud using synthesized speech.  
 5. Enjoy listening to the spoken version of the entered text!
 
-![image](https://github.com/Tejas-w01/Text-to-Speech-Converter/assets/108890932/40ee2394-ed08-4cf2-bfb2-3e52180d0ff6)
+![image](https://github.com/Tejas-warade/Text-to-Speech-Converter/assets/108890932/e359f368-a2ce-4f74-bb62-7e437670a393)
+
